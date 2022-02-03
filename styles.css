@@ -1,0 +1,16 @@
+img {
+    width: 70%;
+    border: black solid;
+}
+
+body {
+    background-image: url("https://livewallpaperhd.com/wp-content/uploads/2020/10/Wallpaper-Black-Silk-HD.jpg");
+    color: white;
+}
+
+.title {
+    border: 5px solid black;
+    margin: 0px 100px 0px 100px;
+    padding: 10px 0px 20px ;
+    text-align: center;
+}
